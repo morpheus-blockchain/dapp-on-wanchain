@@ -2,5 +2,5 @@
 export default {
   antd: {},
   title: 'Funny Auction',
-  locales: {},
+  locale: {},
 }
